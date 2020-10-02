@@ -16,4 +16,4 @@ Write a ruby script that:
 
 Run with `ruby ./parser.rb webserver.log`
 
-Test with `bundle exec rpsec`
+Test with `bundle exec rspec`
